@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix Yolo 8.0.206 scale bug (#7821)
