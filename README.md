@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+YOLOv8 INT8 TFLite Inference Example (#7317)
